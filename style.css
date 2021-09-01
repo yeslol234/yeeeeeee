@@ -1,0 +1,33 @@
+body {
+    margin: 10px 60px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.bottom {
+    display: flex;
+}
+h4 {
+    padding: 0;
+}
+.timestamp {
+    padding-right: 10px;
+    color: gray;
+    font-size: 12px;
+}
+p {
+    margin: 5px 0;
+}
+.top-bar {
+    color: white;
+    background: black;
+    padding: 0 40px;
+}
+.row {
+    padding: 5px 0;
+}
+.main {
+    background-color: #F6F6EF;
+    padding: 10 15px;
+}
